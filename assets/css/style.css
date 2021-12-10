@@ -523,6 +523,9 @@
     .highlights-graphic{
         padding-top: 30px ;
         padding-bottom: 30px;
+       /* margin-top: 30px;*/
+    }
+    .advantage-container{
         margin-top: 30px;
     }
     .highlights-container{
